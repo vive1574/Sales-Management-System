@@ -1,13 +1,16 @@
 # Sales-Management-System
 
-INSTALLATION PROCEDURE
+SYSTEM REQUIRMENTS:
+1.PYTHON (any latest version).
+2.MYSQL COMMAND LINE PROPMT.
+3.MINIMUM OPERATING SYSTEM LEVEL SHOULD BE OF WINDOWS 7.
 
 STEPS TO INSTALL SALES MANAGEMENT SOFTWARE:
-1. First open the file named table and run it.
-2. Second open the sales management system file and use it.
+1.FIRST OPEN THE FILE NAMED TABLE AND RUN IT.
+2.SECOND OPEN THE SALES MANAGEMENT SYSTEM FILE AND USE IT. 
 
 IMPORTANT THINGS TO BE NOTED:
-1. The sales management system file should be placed at the main
-python file.
-2. First, register your account.
-3. Then enter your product details.
+1.THE SALES MANAGEMENT SYSTEM FILE SHOULD BE PLACED AT THE MAIN 
+PYTHON FILE.
+2.FIRST, REGISTER YOUR ACCOUNT.
+3.THEN ENTER YOUR PRODUCT DETAILS.
